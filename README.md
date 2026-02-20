@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Antonio Castagneti, tenho 24 anos e sou natural de Santa Catarina. Possuo técnico em informático - programação de software. Atualmente, estudo através do youtube sobre programação, gosto muito de tecnologia.
-Hoje procuro meu primeiro emprego como programador.
+Me chamo Antonio Castagneti, tenho 24 anos e sou natural de Santa Catarina. Possuo técnico em informático - programação de software. Atualmente procuro meu primeiro emprego como programador.
 
 ---
 
